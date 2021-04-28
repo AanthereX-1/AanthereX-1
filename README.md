@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AanthereX-1
-- 👀 I’m interested in ...Frontend Development (HTML , CSS , JS , REACTJS , EXPRESSJS , MONGODB)
+- 👀 I’m interested in ...Frontend Development (HTML5 , CSS3 , JS (ECMA) , REACTJS , EXPRESSJS , MONGODB)
 - 🌱 I’m currently learning ... REACTJS & EXPRESSJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://github.com/AanthereX-1
